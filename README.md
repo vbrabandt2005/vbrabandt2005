@@ -35,7 +35,7 @@
 
 - **OSes**: **Ubuntu** (General - laptop), **Arch Linux** (General - Desktop) & **MacOS** (Music Prod.)
 - **Browsers**: **Chrome** (General) & [**Floorp**](https://github.com/Floorp-Projects/Floorp) (cool stuff)
-- **Editors**: [**VSCode**](https://code.visualstudio.com), [**Zed**](https://zed.dev) & [Kate](kate-editor.org)
+- **Editors**: [**VSCode**](https://code.visualstudio.com), [**Zed**](https://zed.dev) & [Kate](https://kate-editor.org)
 
 I had made a [blog post](https://vbrabandt2005.github.io/posts/my-equipment-for-2024) which lists every single thing I use or would use.
 
