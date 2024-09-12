@@ -39,8 +39,8 @@
 
 I had made a [blog post](https://vbrabandt2005.github.io/posts/my-equipment-for-2024) which lists every single thing I use or would use.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbrabandt2005&show_icons=true&theme=dark&locale=en&layout=donut-vertical" alt="vbrabandt2005" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vbrabandt2005&show_icons=true&theme=dark&locale=en" alt="vbrabandt2005" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vbrabandt2005&show_icons=true&theme=dark&locale=en" alt="vbrabandt2005" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vbrabandt2005&show_icons=true&theme=dark&locale=en&layout=donut-vertical" alt="vbrabandt2005" /></p>
 
 
 
