@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbrabandt2005&label=Profile%20views&color=0e75b6&style=flat" alt="vbrabandt2005" /> </p>
 
-- I'm currently a student at **[42 Wolfsburg](https://www.42wolfsburg.de/)**
-
 - I’m currently working on **Life**
 
 - I’m looking for help with **Life & Coding**
