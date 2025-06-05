@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Vincent Wutthisit Brabandt</h1>
-<h3 align="center">I'm a 19yo Musician, Tech Enthusiast, Expert in Existential/Mental & Political Crisis/es.</h3>
+<h3 align="center">I'm a 20yo Musician, Tech Enthusiast, Expert in Existential/Mental & Political Crisis/es.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbrabandt2005&label=Profile%20views&color=0e75b6&style=flat" alt="vbrabandt2005" /> </p>
 
